@@ -1,5 +1,6 @@
 # Courses
 
+- [Finxter - How Good are your Coding Skills?](https://finxter.com)
 - [CodeAcademy python courses](http://www.codecademy.com/tracks/python)
 - [Learn Python the Hard Way](http://learnpythonthehardway.org/)
 - [Google's Python Class](https://developers.google.com/edu/python/)
